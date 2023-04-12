@@ -1,0 +1,8 @@
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\bin\Debug\LaboratioDeConsola.exe.config
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\bin\Debug\LaboratioDeConsola.exe
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\bin\Debug\LaboratioDeConsola.pdb
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\obj\Debug\LaboratioDeConsola.csproj.AssemblyReference.cache
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\obj\Debug\LaboratioDeConsola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\obj\Debug\LaboratioDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\obj\Debug\LaboratioDeConsola.exe
+C:\Users\ALUMNO\Documents\JC\LaboratioDeConsola\LaboratioDeConsola\obj\Debug\LaboratioDeConsola.pdb
